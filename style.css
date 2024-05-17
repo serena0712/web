@@ -1,0 +1,13 @@
+body {
+margin:0 ;
+padding: 0;
+}
+.top{
+background-image: url(cherry-blossoms-7110279_640.jpg);
+}
+section{
+ height: 100vh;
+ background-size: cover;
+ background-position:center center;
+ 
+}
